@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to the Showcase of Student Projects from INFO 1121
+During the semester, each student conducted a user-centered design project that included user research, generating themes, personas, and models, wireframing and, lastely creating hi-fi prototyopes. You can view each of the projects here. 
 
-You can use the [editor on GitHub](https://github.com/Devendork/s21-1121-portfolios.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Apps for Noticing :camera_flash: :seedling:	:loudspeaker:	
+Our technologies can help us find new experiences in familiar spaces, perhaps even the spaces within which we have been isolated. This theme asks you how you might design applications that help people learn or notice new aspects of their everyday environments.This theme was created by Laura Devendorf.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Mapping Computer Vision Applications :world_map: :computer: :eyeglasses: 
+Computer vision technologies have been used in a variety of applications - from facial recognition to deep fakes, generated content of realistic human beings. They have also come under scrutiny for their lack of diversity, leading to apps that do not work as well on minorities, as well as the inherent danger they might pose to democracy. This theme asks you to describe current uses of computer vision technologies to the public. This theme was created by Morgan Scheuerman.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Tools To Manage Our Media Diets :wrench: :satellite: :coconut:	
+During the COVID-19 pandemic, many of us are bingeing comfort media (The Office, anyone?) or obsessively consuming news—or both. 2020 might be the year of the doomscroll. The media we consume influences our mood, our relationships, and our productivity...so why is it so hard to manage? What digital tools might help us track the media we consume — and perhaps build better habits and more balanced media diets? This theme was created by Jordan Wirfs-Brock.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Devendork/s21-1121-portfolios.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Difficult Data :1234: :pill:	
+How do  you explain difficult concepts? How do you translate complicated data to the layperson? How do you as a designer and scientist connect with audiences? This theme asks you to create an application or technology where the input is data and the output is art.  
