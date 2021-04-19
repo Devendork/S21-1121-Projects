@@ -1,1 +1,10 @@
 remote_theme: wowthemesnet/mediumish-theme-jekyll
+
+# Site
+name: "Mediumish"
+title: "Mediumish"
+description: "Jekyll template, Medium styled, free for bloggers."
+disqus: 'demowebsite'
+include: ["_pages"]
+permalink: /:title/
+
