@@ -5,13 +5,15 @@
     <description>Student projects exploring current topics in information science and interaction design</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Apr 2021 21:11:03 -0600</pubDate>
-    <lastBuildDate>Wed, 21 Apr 2021 21:11:03 -0600</lastBuildDate>
+    <pubDate>Thu, 22 Apr 2021 13:05:38 -0600</pubDate>
+    <lastBuildDate>Thu, 22 Apr 2021 13:05:38 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Student Portfolio Template - HTML Embed</title>
-        <description>&lt;iframe src=&quot;http://artfordorks.com/&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
+        <title>Happy Circles HTML Embed</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://unstable.design/happy-circles-an-app-for-helping-students-budget/&quot; target=&quot;__blank&quot;&gt; Load on website&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://unstable.design/happy-circles-an-app-for-helping-students-budget/&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
 
 </description>
         <pubDate>Tue, 20 Apr 2021 00:00:00 -0600</pubDate>
@@ -24,31 +26,6 @@
         
         
         <category>Difficult Data</category>
-        
-      </item>
-    
-      <item>
-        <title>The first mass-produced book to deviate from a rectilinear format</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/first-mass-produced/</link>
-        <guid isPermaLink="true">http://localhost:4000/first-mass-produced/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
         
       </item>
     
@@ -82,39 +59,10 @@
       </item>
     
       <item>
-        <title>Student Portfolio Template A</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/LauraDevendorf.pdf&quot;&gt;link to the pdf image&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/FrontComp_Sizing.jpg&quot; alt=&quot;Image of front comp&quot; /&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;http://artfordorks.com/&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
-
-&lt;object data=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-    &amp;lt;/embed&amp;gt;
-&lt;/object&gt;
-
-&lt;p&gt;This is where the student’s content will go and we can add comments and share them and what not&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 Jan 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/Title/</link>
-        <guid isPermaLink="true">http://localhost:4000/Title/</guid>
-        
-        <category>iphone app</category>
-        
-        <category>watch</category>
-        
-        
-        <category>Difficult Data</category>
-        
-      </item>
-    
-      <item>
         <title>Student Portfolio Template - PDF Embed</title>
-        <description>&lt;object data=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;object data=&quot;/assets/images/Option2_PDF.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
+    &lt;embed src=&quot;/assets/images/Option2_PDF.pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/assets/Option2_PDF.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &amp;lt;/embed&amp;gt;
 &lt;/object&gt;
 
@@ -133,8 +81,14 @@
       </item>
     
       <item>
-        <title>Student Portfolio Template A</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/LauraDevendorf.pdf&quot;&gt;link to the pdf image&lt;/a&gt;&lt;/p&gt;
+        <title>Basic Happy Circles - PDF</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/Option1_PDF.pdf&quot;&gt;link to the pdf image&lt;/a&gt;&lt;/p&gt;
+
+&lt;object data=&quot;/assets/images/Option1_PDF.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
+    &lt;embed src=&quot;/assets/images/Option1_PDF.pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/assets/Option1_PDF.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &amp;lt;/embed&amp;gt;
+&lt;/object&gt;
 
 </description>
         <pubDate>Thu, 11 Jan 2018 00:00:00 -0700</pubDate>

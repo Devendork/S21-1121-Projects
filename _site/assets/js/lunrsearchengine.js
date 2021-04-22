@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "      Featured:                                                                                                                                                                                                           Student Portfolio Template - HTML Embed                              :               :                                                                                                                                                                                                                                                                                  Student Portfolio Template - PDF Embed                              :                     This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                                                                                                                                                                                      Another Name                              :               link to the pdf image:                                                                    All Stories:                                                                                                     Student Portfolio Template - HTML Embed              :       :                                                                                                           The first mass-produced book to deviate from a rectilinear format              :       The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the. . . :                                                                                                           Student Portfolio Template A              :       link to the pdf image:                                                                                                           Student Portfolio Template A              :       link to the pdf image:                                                                                                           Student Portfolio Template - PDF Embed              :             This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                           Student Portfolio Template A              :       link to the pdf image:                      &laquo; Prev       1        2      Next &raquo; "
+    "body": "      Featured:                                                                                                                                                                                                           Happy Circles HTML Embed                              :               Load on website:                                                                                                                                                                                                                                                                      Student Portfolio Template - PDF Embed                              :                     This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                                                                                                                                                                                Basic Happy Circles - PDF                              :               link to the pdf image:                                                                          All Stories:                                                                                                     Happy Circles HTML Embed              :       Load on website:                                                                                                           Student Portfolio Template A              :       link to the pdf image:                                                                                                           Student Portfolio Template - PDF Embed              :             This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                           Basic Happy Circles - PDF              :       link to the pdf image:                                                                                                           Another Name              :       link to the pdf image:                   "
     }, {
     "id": 4,
     "url": "http://localhost:4000/robots.txt",
@@ -26,41 +26,26 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/page2/",
-    "title": "Home",
-    "body": "{% if page. url == “/” %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "url": "http://localhost:4000/HTML/",
+    "title": "Happy Circles HTML Embed",
+    "body": "2021/04/20 -  Load on website "
     }, {
     "id": 6,
-    "url": "http://localhost:4000/HTML/",
-    "title": "Student Portfolio Template - HTML Embed",
-    "body": "2021/04/20 - "
-    }, {
-    "id": 7,
-    "url": "http://localhost:4000/first-mass-produced/",
-    "title": "The first mass-produced book to deviate from a rectilinear format",
-    "body": "2018/06/12 - The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.  It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother. "
-    }, {
-    "id": 8,
     "url": "http://localhost:4000/Title2/",
     "title": "Student Portfolio Template A",
     "body": "2018/01/11 - link to the pdf image       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;This is where the student’s content will go and we can add comments and share them and what not "
     }, {
-    "id": 9,
-    "url": "http://localhost:4000/Title/",
-    "title": "Student Portfolio Template A",
-    "body": "2018/01/11 - link to the pdf image       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;This is where the student’s content will go and we can add comments and share them and what not "
-    }, {
-    "id": 10,
+    "id": 7,
     "url": "http://localhost:4000/PDF/",
     "title": "Student Portfolio Template - PDF Embed",
     "body": "2018/01/11 -       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
     }, {
-    "id": 11,
+    "id": 8,
     "url": "http://localhost:4000/Link/",
-    "title": "Student Portfolio Template A",
-    "body": "2018/01/11 - link to the pdf image "
+    "title": "Basic Happy Circles - PDF",
+    "body": "2018/01/11 - link to the pdf image       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
     }, {
-    "id": 12,
+    "id": 9,
     "url": "http://localhost:4000/Image/",
     "title": "Another Name",
     "body": "2018/01/11 - link to the pdf image       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;This is where the student’s content will go and we can add comments and share them and what not layout: posttitle: “Can I define multiples”author: lauracategories: [ Difficult Data]tags: [iphone app, watch]image: “http://artfordorks. com/wordpress/wp-content/uploads/2021/03/WearAnimation_Web. gif”description: “This student’s project description”— "

@@ -1,28 +1,14 @@
-
-markdown: kramdown
-remote_theme: wowthemesnet/mediumish-theme-jekyll
-
-
 name: "INFO 1121"
 title: "Spring 2021 Project Showcase"
 description: "Student projects exploring current topics in information science and interaction design"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '' 
+baseurl: '.' 
 google_analytics: 'UA-179402368-1'
 disqus: '1121portfolios'
 include: ["_pages"]
 permalink: /:title/
 
-
-lsi: false
-safe: true
-source: S21-1121-Projects
-incremental: false
-highlighter: rouge
-
-gist:
-  noscript: false
 
 
 # Authors
