@@ -1,4 +1,8 @@
 # Site
+
+remote_theme: wowthemesnet/mediumish-theme-jekyll
+
+
 name: "INFO 1121"
 title: "Spring 2021 Project Showcase"
 description: "Student projects exploring current topics in information science and interaction design"
