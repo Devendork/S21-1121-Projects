@@ -3,7 +3,7 @@ title: "Spring 2021 Project Showcase"
 description: "Student projects exploring current topics in information science and interaction design"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/1121-s2' 
+baseurl: '/S21-1121-Projects' 
 google_analytics: 'UA-179402368-1'
 disqus: '1121portfolios'
 include: ["_pages"]
