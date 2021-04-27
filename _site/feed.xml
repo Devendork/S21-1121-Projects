@@ -3,24 +3,24 @@
   <channel>
     <title>Spring 2021 Project Showcase</title>
     <description>Student projects exploring current topics in information science and interaction design</description>
-    <link>http://localhost:4000/1121-s2/</link>
-    <atom:link href="http://localhost:4000/1121-s2/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Apr 2021 09:59:20 -0600</pubDate>
-    <lastBuildDate>Tue, 27 Apr 2021 09:59:20 -0600</lastBuildDate>
+    <link>http://localhost:4000/S21-1121-Projects/</link>
+    <atom:link href="http://localhost:4000/S21-1121-Projects/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 27 Apr 2021 10:47:22 -0600</pubDate>
+    <lastBuildDate>Tue, 27 Apr 2021 10:47:22 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Svar?</title>
-        <description>&lt;object data=&quot;/1121-s2/assets/images/ALMA9043.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;/1121-s2/assets/images/ALMA9043.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/1121-s2/assets/images/ALMA9043.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;object data=&quot;/S21-1121-Projects/assets/images/ALMA9043.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
+    &lt;embed src=&quot;/S21-1121-Projects/assets/images/ALMA9043.pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/S21-1121-Projects/assets/images/ALMA9043.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &amp;lt;/embed&amp;gt;
 &lt;/object&gt;
 
 </description>
         <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/Sasha/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/Sasha/</guid>
+        <link>http://localhost:4000/S21-1121-Projects/Sasha/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Sasha/</guid>
         
         <category>Social Media</category>
         
@@ -39,16 +39,16 @@
     
       <item>
         <title>Plant Positivity</title>
-        <description>&lt;object data=&quot;/1121-s2/assets/images/MITO2616.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;/1121-s2/assets/images/MITO2616.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/1121-s2/assets/images/MITO2616.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;object data=&quot;/S21-1121-Projects/assets/images/MITO2616.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
+    &lt;embed src=&quot;/S21-1121-Projects/assets/images/MITO2616.pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/S21-1121-Projects/assets/images/MITO2616.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &amp;lt;/embed&amp;gt;
 &lt;/object&gt;
 
 </description>
         <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/Mikaela/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/Mikaela/</guid>
+        <link>http://localhost:4000/S21-1121-Projects/Mikaela/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Mikaela/</guid>
         
         <category>covid</category>
         
@@ -71,8 +71,8 @@
 
 </description>
         <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/Mayce/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/Mayce/</guid>
+        <link>http://localhost:4000/S21-1121-Projects/Mayce/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Mayce/</guid>
         
         <category>Habit Tracking</category>
         
@@ -86,43 +86,37 @@
       </item>
     
       <item>
-        <title>Plant Positivity</title>
-        <description>&lt;object data=&quot;/1121-s2/assets/images/MITO2616.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;/1121-s2/assets/images/MITO2616.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/1121-s2/assets/images/MITO2616.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-    &amp;lt;/embed&amp;gt;
-&lt;/object&gt;
+        <title>Distraction Box</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://mapi4643c654.myportfolio.com/&quot; target=&quot;__blank&quot;&gt; Load on website&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://mapi4643c654.myportfolio.com/&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
 
 </description>
         <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/Max/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/Max/</guid>
+        <link>http://localhost:4000/S21-1121-Projects/Max/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Max/</guid>
         
-        <category>covid</category>
+        <category>Mental Health</category>
         
-        <category>positivity</category>
+        <category>Improvement</category>
         
-        <category>news</category>
-        
-        <category>Payton O’Brien</category>
+        <category>and Moderation</category>
         
         
-        <category>Difficult Data</category>
+        <category>Managing your Media Diet</category>
         
       </item>
     
       <item>
         <title>See You There - 2</title>
-        <description>&lt;object data=&quot;https://www.canva.com/design/DAEc0m3tj5I/FwdC2yn4jw85Ulago7Q-Xw/view?utm_content=DAEc0m3tj5I&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelink&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;https://www.canva.com/design/DAEc0m3tj5I/FwdC2yn4jw85Ulago7Q-Xw/view?utm_content=DAEc0m3tj5I&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelink&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://www.canva.com/design/DAEc0m3tj5I/FwdC2yn4jw85Ulago7Q-Xw/view?utm_content=DAEc0m3tj5I&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelink&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-    &amp;lt;/embed&amp;gt;
-&lt;/object&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.canva.com/design/DAEc0m3tj5I/FwdC2yn4jw85Ulago7Q-Xw/view?utm_content=DAEc0m3tj5I&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelink&quot; target=&quot;__blank&quot;&gt; Load on Canva&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.canva.com/design/DAEc0m3tj5I/FwdC2yn4jw85Ulago7Q-Xw/view?utm_content=DAEc0m3tj5I&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelink&quot;&gt;&lt;/iframe&gt;
 
 </description>
         <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/Ken/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/Ken/</guid>
+        <link>http://localhost:4000/S21-1121-Projects/Ken/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Ken/</guid>
         
         <category>Activities</category>
         
@@ -138,6 +132,22 @@
       </item>
     
       <item>
+        <title>See You There - 2</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://jaha7175.wixsite.com/personalportfolio&quot; target=&quot;__blank&quot;&gt; Load on Canva&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://jaha7175.wixsite.com/personalportfolio&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/S21-1121-Projects/Jared/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Jared/</guid>
+        
+        
+        <category>Mapping Computer Vision</category>
+        
+      </item>
+    
+      <item>
         <title>See you There - 1</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://www.hamptoniverson.com/our-work&quot; target=&quot;__blank&quot;&gt; Load on website&lt;/a&gt;&lt;/p&gt;
 
@@ -145,8 +155,8 @@
 
 </description>
         <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/Hampton/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/Hampton/</guid>
+        <link>http://localhost:4000/S21-1121-Projects/Hampton/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Hampton/</guid>
         
         <category>Social</category>
         
@@ -169,8 +179,8 @@
 
 </description>
         <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/Grace/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/Grace/</guid>
+        <link>http://localhost:4000/S21-1121-Projects/Grace/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Grace/</guid>
         
         <category>paper trail</category>
         
@@ -187,8 +197,8 @@
 
 </description>
         <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/Erin/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/Erin/</guid>
+        <link>http://localhost:4000/S21-1121-Projects/Erin/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Erin/</guid>
         
         
         <category>Managing your Media Diet</category>
@@ -203,8 +213,8 @@
 
 </description>
         <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/Elijah/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/Elijah/</guid>
+        <link>http://localhost:4000/S21-1121-Projects/Elijah/</link>
+        <guid isPermaLink="true">http://localhost:4000/S21-1121-Projects/Elijah/</guid>
         
         <category>Cooking</category>
         
@@ -214,26 +224,6 @@
         
         
         <category>Difficult Data</category>
-        
-      </item>
-    
-      <item>
-        <title>Social Media Addicts Anonymous - 1</title>
-        <description>&lt;object data=&quot;https://e944e5a1-96fc-4a01-913c-6f74351280a2.filesusr.com/ugd/e415ef_a7ef4299d45a44dda48cdacaa4abafbe.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;https://e944e5a1-96fc-4a01-913c-6f74351280a2.filesusr.com/ugd/e415ef_a7ef4299d45a44dda48cdacaa4abafbe.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://e944e5a1-96fc-4a01-913c-6f74351280a2.filesusr.com/ugd/e415ef_a7ef4299d45a44dda48cdacaa4abafbe.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-    &amp;lt;/embed&amp;gt;
-&lt;/object&gt;
-
-</description>
-        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/1121-s2/ClaireO/</link>
-        <guid isPermaLink="true">http://localhost:4000/1121-s2/ClaireO/</guid>
-        
-        <category>Social Media Addicts Anonymous</category>
-        
-        
-        <category>Apps for Noticing</category>
         
       </item>
     

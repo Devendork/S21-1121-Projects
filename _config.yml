@@ -3,7 +3,7 @@ title: "Spring 2021 Project Showcase"
 description: "Student projects exploring current topics in information science and interaction design"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/S21-1121-Projects/' 
+baseurl: '/S21-1121-Projects' 
 google_analytics: 'UA-179402368-1'
 disqus: '1121portfolios'
 include: ["_pages"]
@@ -35,7 +35,7 @@ authors:
   mikaela:
     name: Mikaela
     display_name: Mikaela
-    website: mikaelatommy.com
+    website: https://mikaelatommy.com
     description: "CU boulder, almost done ENVD"
 
   mayce:
@@ -57,7 +57,7 @@ authors:
     name: Hampton Iverson
     display_name: Hampton Iverson
     description: A Dude
-    website: HamptonIverson.com
+    website: https://HamptonIverson.com
 
 
   elijah: 
@@ -75,7 +75,18 @@ authors:
     display_name: Brian Lee
     description: "Coca Cola addict"
     website: https://pokepoke1432.wixsite.com/website
-    
+
+
+  max: 
+    name: Max Pickett
+    display_name: Max Pickett
+    description: "Surf, and Photography Enthusiast 1st year Info Science Major Max Pickett"
+    website: https://mapi4643c654.myportfolio.com 
+
+  jared: 
+    name: Jared
+    display_name: Jared
+    description: "I'm a senior studying advertising with a minor in business"
 
 # Plugins
 plugins:
