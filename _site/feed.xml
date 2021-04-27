@@ -3,26 +3,60 @@
   <channel>
     <title>Spring 2021 Project Showcase</title>
     <description>Student projects exploring current topics in information science and interaction design</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Apr 2021 13:05:38 -0600</pubDate>
-    <lastBuildDate>Thu, 22 Apr 2021 13:05:38 -0600</lastBuildDate>
+    <link>http://localhost:4000/1121-s2/</link>
+    <atom:link href="http://localhost:4000/1121-s2/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 27 Apr 2021 09:59:20 -0600</pubDate>
+    <lastBuildDate>Tue, 27 Apr 2021 09:59:20 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Happy Circles HTML Embed</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://unstable.design/happy-circles-an-app-for-helping-students-budget/&quot; target=&quot;__blank&quot;&gt; Load on website&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://unstable.design/happy-circles-an-app-for-helping-students-budget/&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
+        <title>Svar?</title>
+        <description>&lt;object data=&quot;/1121-s2/assets/images/ALMA9043.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
+    &lt;embed src=&quot;/1121-s2/assets/images/ALMA9043.pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/1121-s2/assets/images/ALMA9043.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &amp;lt;/embed&amp;gt;
+&lt;/object&gt;
 
 </description>
-        <pubDate>Tue, 20 Apr 2021 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/HTML/</link>
-        <guid isPermaLink="true">http://localhost:4000/HTML/</guid>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/Sasha/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/Sasha/</guid>
         
-        <category>iphone app</category>
+        <category>Social Media</category>
         
-        <category>watch</category>
+        <category>Analyze</category>
+        
+        <category>Emoji</category>
+        
+        <category>Meaning</category>
+        
+        <category>TeamTeam</category>
+        
+        
+        <category>Managing your Media Diet</category>
+        
+      </item>
+    
+      <item>
+        <title>Plant Positivity</title>
+        <description>&lt;object data=&quot;/1121-s2/assets/images/MITO2616.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
+    &lt;embed src=&quot;/1121-s2/assets/images/MITO2616.pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/1121-s2/assets/images/MITO2616.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &amp;lt;/embed&amp;gt;
+&lt;/object&gt;
+
+</description>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/Mikaela/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/Mikaela/</guid>
+        
+        <category>covid</category>
+        
+        <category>positivity</category>
+        
+        <category>news</category>
+        
+        <category>Payton O’Brien</category>
         
         
         <category>Difficult Data</category>
@@ -30,28 +64,21 @@
       </item>
     
       <item>
-        <title>Student Portfolio Template A</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/LauraDevendorf.pdf&quot;&gt;link to the pdf image&lt;/a&gt;&lt;/p&gt;
+        <title>The Habit Hobbits</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://mami8235.wixsite.com/my-site&quot; target=&quot;__blank&quot;&gt; Load on website&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/FrontComp_Sizing.jpg&quot; alt=&quot;Image of front comp&quot; /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://mami8235.wixsite.com/my-site&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
 
-&lt;iframe src=&quot;http://artfordorks.com/&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
-
-&lt;object data=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-    &amp;lt;/embed&amp;gt;
-&lt;/object&gt;
-
-&lt;p&gt;This is where the student’s content will go and we can add comments and share them and what not&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Jan 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/Title2/</link>
-        <guid isPermaLink="true">http://localhost:4000/Title2/</guid>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/Mayce/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/Mayce/</guid>
         
-        <category>iphone app</category>
+        <category>Habit Tracking</category>
         
-        <category>watch</category>
+        <category>Mindfulness</category>
+        
+        <category>Growth</category>
         
         
         <category>Difficult Data</category>
@@ -59,21 +86,25 @@
       </item>
     
       <item>
-        <title>Student Portfolio Template - PDF Embed</title>
-        <description>&lt;object data=&quot;/assets/images/Option2_PDF.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;/assets/images/Option2_PDF.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/assets/Option2_PDF.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+        <title>Plant Positivity</title>
+        <description>&lt;object data=&quot;/1121-s2/assets/images/MITO2616.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
+    &lt;embed src=&quot;/1121-s2/assets/images/MITO2616.pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/1121-s2/assets/images/MITO2616.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &amp;lt;/embed&amp;gt;
 &lt;/object&gt;
 
 </description>
-        <pubDate>Thu, 11 Jan 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/PDF/</link>
-        <guid isPermaLink="true">http://localhost:4000/PDF/</guid>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/Max/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/Max/</guid>
         
-        <category>iphone app</category>
+        <category>covid</category>
         
-        <category>watch</category>
+        <category>positivity</category>
+        
+        <category>news</category>
+        
+        <category>Payton O’Brien</category>
         
         
         <category>Difficult Data</category>
@@ -81,23 +112,105 @@
       </item>
     
       <item>
-        <title>Basic Happy Circles - PDF</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/Option1_PDF.pdf&quot;&gt;link to the pdf image&lt;/a&gt;&lt;/p&gt;
-
-&lt;object data=&quot;/assets/images/Option1_PDF.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;/assets/images/Option1_PDF.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;/assets/Option1_PDF.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+        <title>See You There - 2</title>
+        <description>&lt;object data=&quot;https://www.canva.com/design/DAEc0m3tj5I/FwdC2yn4jw85Ulago7Q-Xw/view?utm_content=DAEc0m3tj5I&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelink&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
+    &lt;embed src=&quot;https://www.canva.com/design/DAEc0m3tj5I/FwdC2yn4jw85Ulago7Q-Xw/view?utm_content=DAEc0m3tj5I&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelink&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://www.canva.com/design/DAEc0m3tj5I/FwdC2yn4jw85Ulago7Q-Xw/view?utm_content=DAEc0m3tj5I&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link&amp;amp;utm_source=publishsharelink&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &amp;lt;/embed&amp;gt;
 &lt;/object&gt;
 
 </description>
-        <pubDate>Thu, 11 Jan 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/Link/</link>
-        <guid isPermaLink="true">http://localhost:4000/Link/</guid>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/Ken/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/Ken/</guid>
         
-        <category>iphone app</category>
+        <category>Activities</category>
         
-        <category>watch</category>
+        <category>Adventure</category>
+        
+        <category>Discover</category>
+        
+        <category>Shaq's Big Toe</category>
+        
+        
+        <category>Apps for Noticing</category>
+        
+      </item>
+    
+      <item>
+        <title>See you There - 1</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.hamptoniverson.com/our-work&quot; target=&quot;__blank&quot;&gt; Load on website&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.hamptoniverson.com/our-work&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/Hampton/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/Hampton/</guid>
+        
+        <category>Social</category>
+        
+        <category>Adventure</category>
+        
+        <category>Get me out of the house please</category>
+        
+        <category>Shaq's Big Toe</category>
+        
+        
+        <category>Apps for Noticing</category>
+        
+      </item>
+    
+      <item>
+        <title>Paper Trail</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.gracewilliams.info/info-project&quot; target=&quot;__blank&quot;&gt; Load on website&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.gracewilliams.info/info-project&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/Grace/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/Grace/</guid>
+        
+        <category>paper trail</category>
+        
+        
+        <category>Apps for Noticing</category>
+        
+      </item>
+    
+      <item>
+        <title>Screenbuddy</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://ersc2601.wixsite.com/mysite/screenbuddy&quot; target=&quot;__blank&quot;&gt; Load on website&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://ersc2601.wixsite.com/mysite/screenbuddy&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/Erin/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/Erin/</guid>
+        
+        
+        <category>Managing your Media Diet</category>
+        
+      </item>
+    
+      <item>
+        <title>Ultra Chef</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://elbo9027.wixsite.com/ultrachef&quot; target=&quot;__blank&quot;&gt; Load on website&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://elbo9027.wixsite.com/ultrachef&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/Elijah/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/Elijah/</guid>
+        
+        <category>Cooking</category>
+        
+        <category>Budget</category>
+        
+        <category>Ingredients</category>
         
         
         <category>Difficult Data</category>
@@ -105,41 +218,22 @@
       </item>
     
       <item>
-        <title>Another Name</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/LauraDevendorf.pdf&quot;&gt;link to the pdf image&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/FrontComp_Sizing.jpg&quot; alt=&quot;Image of front comp&quot; /&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;http://artfordorks.com/&quot; width=&quot;700px&quot; height=&quot;1400px&quot; title=&quot;embedding from site&quot;&gt;&lt;/iframe&gt;
-
-&lt;object data=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
-    &lt;embed src=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot; /&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://hammer.ucla.edu/sites/default/files/migrated-assets/media/Digital_archives/Corita_Kent/Essays/susan-dackerman_corita-kent-and-the-language-of-pop.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+        <title>Social Media Addicts Anonymous - 1</title>
+        <description>&lt;object data=&quot;https://e944e5a1-96fc-4a01-913c-6f74351280a2.filesusr.com/ugd/e415ef_a7ef4299d45a44dda48cdacaa4abafbe.pdf&quot; type=&quot;application/pdf&quot; width=&quot;700px&quot; height=&quot;1400px&quot;&gt;
+    &lt;embed src=&quot;https://e944e5a1-96fc-4a01-913c-6f74351280a2.filesusr.com/ugd/e415ef_a7ef4299d45a44dda48cdacaa4abafbe.pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://e944e5a1-96fc-4a01-913c-6f74351280a2.filesusr.com/ugd/e415ef_a7ef4299d45a44dda48cdacaa4abafbe.pdf&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &amp;lt;/embed&amp;gt;
 &lt;/object&gt;
 
-&lt;p&gt;This is where the student’s content will go and we can add comments and share them and what not&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;layout: post
-title:  “Can I define multiples”
-author: laura
-categories: [ Difficult Data]
-tags: [iphone app, watch]
-image: “http://artfordorks.com/wordpress/wp-content/uploads/2021/03/WearAnimation_Web.gif”
-description: “This student’s project description”
-—&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Jan 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/Image/</link>
-        <guid isPermaLink="true">http://localhost:4000/Image/</guid>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/1121-s2/ClaireO/</link>
+        <guid isPermaLink="true">http://localhost:4000/1121-s2/ClaireO/</guid>
         
-        <category>iphone app</category>
-        
-        <category>watch</category>
+        <category>Social Media Addicts Anonymous</category>
         
         
-        <category>Difficult Data</category>
+        <category>Apps for Noticing</category>
         
       </item>
     

@@ -3,7 +3,7 @@ title: "Spring 2021 Project Showcase"
 description: "Student projects exploring current topics in information science and interaction design"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '.' 
+baseurl: '/1121-s2' 
 google_analytics: 'UA-179402368-1'
 disqus: '1121portfolios'
 include: ["_pages"]
@@ -18,6 +18,64 @@ authors:
     display_name: The Professor
     email: laura.devendorf@colorado.edu
     description: "Posted by the professor of this course"
+
+
+  grace:
+    name: grace williams 
+    display_name: grace williams
+    description: "I'm a media studies and Information science major who loves movies, data, and data about movies!"
+    website: https://www.gracewilliams.info
+
+  sasha:
+    name: Sasha Maslowski
+    display_name: Sasha Maslowski
+    description: "I am a Junior here at CU studying Information Science. I love all things fitness and outdoors! I play on the Women's Hockey team here and I am looking forward to a career that combines data science and design!"
+
+
+  mikaela:
+    name: Mikaela
+    display_name: Mikaela
+    website: mikaelatommy.com
+    description: "CU boulder, almost done ENVD"
+
+  mayce:
+    name: Mayce Miller 
+    display_name: Mayce Miller 
+    description: "1st year CU Boulder student"
+
+
+  anonymous:
+    name: anonymous
+    display_name: Anoymous 
+
+  ken:
+    name: Ken Vue
+    display_name: Ken Vue
+    description: "3rd Year Information Science broke college student"
+
+  hampton: 
+    name: Hampton Iverson
+    display_name: Hampton Iverson
+    description: A Dude
+    website: HamptonIverson.com
+
+
+  elijah: 
+    name: Elijah Boykoff
+    display_name: Elijah Boykoff
+    description: "I am a freshman at CU Boulder studying Information Science who loves his dog and loves his mother."
+    website: https://elbo9027.wixsite.com/ultrachef
+
+  erin: 
+    name: Erin
+    display_name: Erin
+
+  brian: 
+    name: Brian Lee
+    display_name: Brian Lee
+    description: "Coca Cola addict"
+    website: https://pokepoke1432.wixsite.com/website
+    
 
 # Plugins
 plugins:

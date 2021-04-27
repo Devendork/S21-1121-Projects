@@ -1,54 +1,94 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/404.html",
+    "url": "http://localhost:4000/1121-s2/404.html",
     "title": "404",
     "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/about",
+    "url": "http://localhost:4000/1121-s2/about",
     "title": "About These Projects",
     "body": "During the semester, each student conducted a user-centered design project that included user research, generating themes, personas, and models, wireframing and, lastely creating hi-fi prototyopes. Apps for Noticing: Our technologies can help us find new experiences in familiar spaces, perhaps even the spaces within which we have been isolated. This theme asks you how you might design applications that help people learn or notice new aspects of their everyday environments. This theme was created by Laura Devendorf. Mapping Computer Vision Applications : Computer vision technologies have been used in a variety of applications - from facial recognition to deep fakes, generated content of realistic human beings. They have also come under scrutiny for their lack of diversity, leading to apps that do not work as well on minorities, as well as the inherent danger they might pose to democracy. This theme asks you to describe current uses of computer vision technologies to the public. This theme was created by Morgan Scheuerman. Tools To Manage Our Media Diets: During the COVID-19 pandemic, many of us are bingeing comfort media (The Office, anyone?) or obsessively consuming news—or both. 2020 might be the year of the doomscroll. The media we consume influences our mood, our relationships, and our productivity. . . so why is it so hard to manage? What digital tools might help us track the media we consume — and perhaps build better habits and more balanced media diets? This theme was created by Jordan Wirfs-Brock. Difficult Data: 	How do you explain difficult concepts? How do you translate complicated data to the layperson? How do you as a designer and scientist connect with audiences? This theme asks you to create an application or technology where the input is data and the output is art. 					View our Canvas Site		More information about this course can be found on Canvas. 		Instructors		The course was led by Laura Devendorf with amazing support from Jordan Wirfs-Brock, Kandrea Wade, and Morgan Scheuerman 		 Textbooks		 We followed two textbooks this semester:		 		 	Amy Ko's Design Methods open educational text		 	Ellen Lupton's Design is Storytelling book		 		 	"
     }, {
     "id": 2,
-    "url": "http://localhost:4000/categories",
+    "url": "http://localhost:4000/1121-s2/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 3,
-    "url": "http://localhost:4000/",
+    "url": "http://localhost:4000/1121-s2/",
     "title": "Home",
-    "body": "      Featured:                                                                                                                                                                                                           Happy Circles HTML Embed                              :               Load on website:                                                                                                                                                                                                                                                                      Student Portfolio Template - PDF Embed                              :                     This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                                                                                                                                                                                Basic Happy Circles - PDF                              :               link to the pdf image:                                                                          All Stories:                                                                                                     Happy Circles HTML Embed              :       Load on website:                                                                                                           Student Portfolio Template A              :       link to the pdf image:                                                                                                           Student Portfolio Template - PDF Embed              :             This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                           Basic Happy Circles - PDF              :       link to the pdf image:                                                                                                           Another Name              :       link to the pdf image:                   "
+    "body": "      Featured:                                                                                                                                                                                                           Svar?                              :                     This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                                                                                                                                                                                Plant Positivity                              :                     This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                                                                                                                                                                                The Habit Hobbits                              :               Load on website:                                                                                                                                                                                                                                                                Plant Positivity                              :                     This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                                                                                                                                                                                See You There - 2                              :                     This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                                                                                                                                                                                See you There - 1                              :               Load on website:                                                                                                                                                                                                                                                                Paper Trail                              :               Load on website:                                                                                                                                                                                                                                                                Screenbuddy                              :               Load on website:                                                                                                                                                                                                                                                                Ultra Chef                              :               Load on website:                                                                                                                                                                                                                                                                Social Media Addicts Anonymous - 1                              :                     This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                                                                                                                                                                                Plant Positivity                              :                     This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                                                                                                                                                                                Social Media Addicts Anonymous - 2                              :               View on Canva:                                                                    All Stories:                                                                                                     Svar?              :             This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                           Plant Positivity              :             This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                           The Habit Hobbits              :       Load on website:                                                                                                           Plant Positivity              :             This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                           See You There - 2              :             This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;:                                                                                                           See you There - 1              :       Load on website:                      &laquo; Prev       1        2      Next &raquo; "
     }, {
     "id": 4,
-    "url": "http://localhost:4000/robots.txt",
+    "url": "http://localhost:4000/1121-s2/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/HTML/",
-    "title": "Happy Circles HTML Embed",
-    "body": "2021/04/20 -  Load on website "
+    "url": "http://localhost:4000/1121-s2/page2/",
+    "title": "Home",
+    "body": "{% if page. url == “/” %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Stories:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 6,
-    "url": "http://localhost:4000/Title2/",
-    "title": "Student Portfolio Template A",
-    "body": "2018/01/11 - link to the pdf image       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;This is where the student’s content will go and we can add comments and share them and what not "
+    "url": "http://localhost:4000/1121-s2/Sasha/",
+    "title": "Svar?",
+    "body": "2021/04/27 -       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
     }, {
     "id": 7,
-    "url": "http://localhost:4000/PDF/",
-    "title": "Student Portfolio Template - PDF Embed",
-    "body": "2018/01/11 -       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
+    "url": "http://localhost:4000/1121-s2/Mikaela/",
+    "title": "Plant Positivity",
+    "body": "2021/04/27 -       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
     }, {
     "id": 8,
-    "url": "http://localhost:4000/Link/",
-    "title": "Basic Happy Circles - PDF",
-    "body": "2018/01/11 - link to the pdf image       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
+    "url": "http://localhost:4000/1121-s2/Mayce/",
+    "title": "The Habit Hobbits",
+    "body": "2021/04/27 -  Load on website "
     }, {
     "id": 9,
-    "url": "http://localhost:4000/Image/",
-    "title": "Another Name",
-    "body": "2018/01/11 - link to the pdf image       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;This is where the student’s content will go and we can add comments and share them and what not layout: posttitle: “Can I define multiples”author: lauracategories: [ Difficult Data]tags: [iphone app, watch]image: “http://artfordorks. com/wordpress/wp-content/uploads/2021/03/WearAnimation_Web. gif”description: “This student’s project description”— "
+    "url": "http://localhost:4000/1121-s2/Max/",
+    "title": "Plant Positivity",
+    "body": "2021/04/27 -       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
+    }, {
+    "id": 10,
+    "url": "http://localhost:4000/1121-s2/Ken/",
+    "title": "See You There - 2",
+    "body": "2021/04/27 -       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
+    }, {
+    "id": 11,
+    "url": "http://localhost:4000/1121-s2/Hampton/",
+    "title": "See you There - 1",
+    "body": "2021/04/27 -  Load on website "
+    }, {
+    "id": 12,
+    "url": "http://localhost:4000/1121-s2/Grace/",
+    "title": "Paper Trail",
+    "body": "2021/04/27 -  Load on website "
+    }, {
+    "id": 13,
+    "url": "http://localhost:4000/1121-s2/Erin/",
+    "title": "Screenbuddy",
+    "body": "2021/04/27 -  Load on website "
+    }, {
+    "id": 14,
+    "url": "http://localhost:4000/1121-s2/Elijah/",
+    "title": "Ultra Chef",
+    "body": "2021/04/27 -  Load on website "
+    }, {
+    "id": 15,
+    "url": "http://localhost:4000/1121-s2/ClaireO/",
+    "title": "Social Media Addicts Anonymous - 1",
+    "body": "2021/04/27 -       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
+    }, {
+    "id": 16,
+    "url": "http://localhost:4000/1121-s2/Brian/",
+    "title": "Plant Positivity",
+    "body": "2021/04/27 -       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
+    }, {
+    "id": 17,
+    "url": "http://localhost:4000/1121-s2/Anon/",
+    "title": "Social Media Addicts Anonymous - 2",
+    "body": "2021/04/27 -  View on Canva       This browser does not support PDFs. Please download the PDF to view it: Download PDF.   &lt;/embed&gt;"
     }];
 
 var idx = lunr(function () {
